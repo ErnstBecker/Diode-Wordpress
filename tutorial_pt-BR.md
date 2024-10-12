@@ -208,7 +208,7 @@ sudo pacman -S apache mariadb php php-apache php-mysql
 - Para você abrir o WordPress no diode basta rodar o comando abaixo:
 
 	```bash
-	/opt/diode/diode publish -public 80:80 -socksd
+	diode publish -public 80:80 -socksd
 	```
 
 - Caso você não saiba em que porta servidor Apache está rodando, você pode verificar no Listen no arquivo `/etc/httpd/conf/httpd.conf`
