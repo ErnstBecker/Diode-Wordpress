@@ -3,9 +3,6 @@
 	<img src="https://img.shields.io/github/last-commit/ernstbecker/Diode-Wordpress?&labelColor=151515&color=ff0043">
 	<img src="https://img.shields.io/github/stars/ernstbecker/Diode-Wordpress?style=flat&labelColor=151515&color=ff0043">
 	<img src="https://img.shields.io/github/repo-size/ernstbecker/Diode-Wordpress?&labelColor=151515&color=ff0043">
-
-  <a href="#-English">English</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-Português">Portuguese</a>
 </div>
 
 
